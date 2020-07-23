@@ -15,13 +15,13 @@ src
 │   ├── blog
 │   ├── challenges
 │   ├── projects
-│   |   |   ├── __tests__
+│   |   |   └── __tests__
 │   |   |   |    └── projects.router.spec.js
 │   |   |   ├── projects.controller.js
 │   |   |   ├── projects.model.js
 │   |   |   └── projects.router.js
 |   ├── utils
-|   |   ├── __tests__
+|   |   └── __tests__
 │   |   |   ├── auth.spec.js
 │   |   |   └── crud.spec.js
 │   |   ├── auth.js
