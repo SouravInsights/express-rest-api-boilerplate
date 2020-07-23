@@ -2,9 +2,9 @@
 
 ## Project Structure
 
-```
+
 src
-├── __tests__
+├── __tests__                                # All our test cases reside here.
 │   └── server.spec.js
 ├── config
 │   ├── dev.js
@@ -13,7 +13,7 @@ src
 │   └── testing.js
 ├── resources
 │   ├── blog
-│   |   └── __tests__                                                               # All of our tests related to blog resource stays here. 
+│   |   └── __tests__                        # Tests related to the blog resource stays here. 
 │   |   |    └── blog.router.spec.js
 │   |   ├── blog.controller.js
 │   |   ├── blog.model.js
@@ -39,5 +39,5 @@ src
 │   ├── └── db.js
 ├── index.js
 └── server.js
-```
+
 
