@@ -24,7 +24,7 @@ src
 |   |   ├── __tests__
 │   |   |   ├── auth.spec.js
 │   |   |   └── crud.spec.js
-│   |   ├── auth
+│   |   ├── auth.js
 │   |   ├── crud.js
 │   ├── └── db.js
 ├── ├── index.js
