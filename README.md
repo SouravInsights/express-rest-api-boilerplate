@@ -22,8 +22,8 @@ src
 │   |   |   └── projects.router.js
 |   ├── utils
 |   |   ├── __tests__
-│   |   |   |    └── auth.spec.js
-│   |   |   |    └── crud.spec.js
+│   |   |   └── auth.spec.js
+│   |   |   └── crud.spec.js
 │   ├── └── auth
 │   ├── └── crud.js
 │   ├── └── db.js
