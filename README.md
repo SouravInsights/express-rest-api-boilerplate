@@ -20,7 +20,7 @@ src
 │   |   |   └── projects.controller.js
 │   |   |   └── projects.model.js
 │   |   |   └── projects.router.js
-├── ├── utils
+|   ├── utils
 |   |   ├── __tests__
 │   |   |   |    └── auth.spec.js
 │   |   |   |    └── crud.spec.js
