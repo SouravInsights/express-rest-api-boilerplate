@@ -37,7 +37,7 @@ src
 │   |   ├── auth.js
 │   |   ├── crud.js
 │   ├── └── db.js
-├── ├── index.js
-└── └── server.js
+├── index.js
+└── server.js
 ```
 
