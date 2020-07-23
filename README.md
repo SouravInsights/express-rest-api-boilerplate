@@ -13,7 +13,7 @@ src
 │   └── testing.js
 ├── resources
 │   ├── blog
-│   |   └── __tests__
+│   |   └── __tests__                                                               # All of our tests related to blog resource stays here. 
 │   |   |    └── blog.router.spec.js
 │   |   ├── blog.controller.js
 │   |   ├── blog.model.js
