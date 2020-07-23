@@ -17,17 +17,17 @@ src
 │   ├── projects
 │   |   |   ├── __tests__
 │   |   |   |    └── projects.router.spec.js
-│   |   |   └── projects.controller.js
-│   |   |   └── projects.model.js
+│   |   |   ├── projects.controller.js
+│   |   |   ├── projects.model.js
 │   |   |   └── projects.router.js
 |   ├── utils
 |   |   ├── __tests__
-│   |   |   └── auth.spec.js
+│   |   |   ├── auth.spec.js
 │   |   |   └── crud.spec.js
-│   ├── └── auth
-│   ├── └── crud.js
+│   |   ├── auth
+│   |   ├── crud.js
 │   ├── └── db.js
 ├── ├── index.js
-├── ├── server.js
+└── └── server.js
 ```
 
