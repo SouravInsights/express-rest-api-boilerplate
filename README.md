@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-
+```
 src
 ├── __tests__                                # All our test cases reside here.
 │   └── server.spec.js
@@ -39,5 +39,5 @@ src
 │   ├── └── db.js
 ├── index.js
 └── server.js
-
+```
 
